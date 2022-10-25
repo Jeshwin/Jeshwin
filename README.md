@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Jeshwin
-- 🎖 I’m interested in 3D printing, mathematics, and computer science
-- 🐦 @jinx_penguin on Twitter
-- 🔗 Linkedln coming soon!
+- 🎓 Undergrad student at Santa Clara University
+- 🎖 I’m interested in computer science, math, and 3D printing!
+- 🐦 [@math_a_magic343](https://twitter.com/math_a_magic343) on Twitter
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jeshwinprince/)
 
 <!---
 Jeshwin/Jeshwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
