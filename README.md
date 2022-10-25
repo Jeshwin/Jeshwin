@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Jeshwin
-- 🎓 Undergrad student at Santa Clara University
-- 🎖 I’m interested in computer science, math, and 3D printing!
+## Hi, I’m @Jeshwin 👋
+
+- 🎓 Computer Engineering undergrad at Santa Clara University
+- 🖥 Proficient in HTML, CSS, JavaScript, and Java
+- 🎞 Vue.js, TailwindCSS, DaisyUI, Nuxt, Rocket.rs
+- 🪴 Currently learning C, Rust, and Kotlin
 - 🐦 [@math_a_magic343](https://twitter.com/math_a_magic343) on Twitter
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeshwinprince/)
+- 🍵 I also like 3D printing and making stuff in Blender!
 
 <!---
 Jeshwin/Jeshwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
