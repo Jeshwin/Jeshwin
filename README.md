@@ -2,7 +2,7 @@
 
 - 🎓 Computer Engineering undergrad at Santa Clara University
 - 🖥 Proficient in HTML, CSS, JavaScript, and Java
-- 🎞 Vue.js, TailwindCSS, DaisyUI, Nuxt, Rocket.rs
+- 🎞 Vue.js, TailwindCSS, DaisyUI, Nuxt
 - 🪴 Currently learning C, Rust, and Kotlin
 - 🐦 [@math_a_magic343](https://twitter.com/math_a_magic343) on Twitter
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeshwinprince/)
