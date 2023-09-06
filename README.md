@@ -3,10 +3,10 @@
 - 🎓 Computer Engineering undergrad at Santa Clara University
 - 🖥 Proficient in HTML, CSS, JavaScript, C, and Java
 - 🎞 React.js, Next.js, TailwindCSS, DaisyUI
-- 🪴 Currently learning Rust and Kotlin
-- 🐦 [@math_a_magic343](https://twitter.com/math_a_magic343) on Twitter
+- 🪴 Currently learning Rust and Flutter
+- 🐦 [Math-a-Magic!](https://www.youtube.com/@math-a-magic9820) on YouTUbe
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeshwinprince/)
-- 🔗 [Personal Website](https://www.jeshw.in/)
+- 🔗 [jeshwinprince.com](https://jeshwinprince.com)
 - 🍵 I also like playing the guitar, 3d printing, and making stuff in Blender!
 
 <!---
