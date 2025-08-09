@@ -1,9 +1,9 @@
 ## Hi, I’m @Jeshwin 👋
 
 - 🎓 Computer Engineering undergrad at Santa Clara University
-- 🖥 Proficient in HTML, CSS, JavaScript, C, and Java
-- 🎞 React.js, Next.js, TailwindCSS, DaisyUI
-- 🪴 Currently learning Rust and Flutter
+- 🖥 Proficient in HTML, CSS, JavaScript, C, and Python 
+- 🎞 React.js, Next.js, TailwindCSS, Flutter
+- 🪴 Currently learning Rust and Tensorflow
 - 🐦 [Math-a-Magic!](https://www.youtube.com/@math-a-magic9820) on YouTUbe
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeshwinprince/)
 - 🔗 [jeshwinprince.com](https://jeshwinprince.com)
